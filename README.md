@@ -10,7 +10,11 @@
 
 ### About
 
-Frontend / Fullstack developer building modern web applications with **React**, **Next.js**, **TypeScript** and **Node.js**. Focused on scalable architecture, clean API integrations and responsive UI. Currently studying Computer Science at SAN University.
+Frontend / Fullstack developer who builds things properly — 
+with tests, Docker, monitoring and real backend logic. 
+Working with React, Next.js, Vue.js and TypeScript on the 
+frontend, Node.js on the backend, Java Spring Boot when 
+things get serious. CS student at SAN University, Łódź.
 
 ---
 
