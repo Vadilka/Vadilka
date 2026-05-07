@@ -52,4 +52,4 @@ things get serious. CS student at SAN University, Łódź.
 
 ---
 
-🇺🇦 Ukrainian — Native · 🇵🇱 Polish — B2 · 🇺🇸 English — B2
+🇺🇦 Ukrainian - Native · 🇵🇱 Polish - B2 · 🇺🇸 English - B2
