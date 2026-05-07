@@ -20,15 +20,15 @@ things get serious. CS student at SAN University, Łódź.
 
 ### Stack
 
-**Frontend** — TypeScript · React · Next.js · Vue.js · HTML · CSS
+**Frontend** - TypeScript · React · Next.js · Vue.js · HTML · CSS
 
-**Backend & API** — Node.js · Express.js · Java · Spring Boot · REST API
+**Backend & API** - Node.js · Express.js · Java · Spring Boot · REST API
 
-**Databases** — PostgreSQL · MySQL · MongoDB · Redis
+**Databases** - PostgreSQL · MySQL · MongoDB · Redis
 
-**ORM / ODM** — Prisma · Mongoose
+**ORM / ODM** - Prisma · Mongoose
 
-**Tooling** — Git · Docker · VS Code · WebStorm · IntelliJ IDEA · Vite · Webpack · ESLint · Prettier · Figma
+**Tooling** - Git · Docker · VS Code · WebStorm · IntelliJ IDEA · Vite · Webpack · ESLint · Prettier · Figma
 
 ---
 
