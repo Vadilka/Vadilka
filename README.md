@@ -10,7 +10,7 @@
 
 ### About
 
-Frontend / Fullstack developer who builds things properly — 
+Frontend / Fullstack developer who builds things properly -
 with tests, Docker, monitoring and real backend logic. 
 Working with React, Next.js, Vue.js and TypeScript on the 
 frontend, Node.js on the backend, Java Spring Boot when 
