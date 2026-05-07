@@ -48,4 +48,4 @@ Frontend / Fullstack developer building modern web applications with **React**, 
 
 ---
 
-🇺🇦 Ukrainian — Native · 🇵🇱 Polish — B2 · 🇬🇧 English — B2
+🇺🇦 Ukrainian — Native · 🇵🇱 Polish — B2 · 🇺🇸 English — B2
