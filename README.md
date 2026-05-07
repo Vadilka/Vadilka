@@ -18,11 +18,13 @@ Frontend / Fullstack developer building modern web applications with **React**, 
 
 **Frontend** — TypeScript · React · Next.js · Vue.js · HTML · CSS
 
-**Backend & API** — Node.js · REST API
+**Backend & API** — Node.js · Express.js · Java · Spring Boot · REST API
 
 **Databases** — PostgreSQL · MySQL · MongoDB · Redis
 
-**Tooling** — Git · Docker · VS Code · Vite · Webpack · ESLint · Prettier · Figma
+**ORM / ODM** — Prisma · Mongoose
+
+**Tooling** — Git · Docker · VS Code · WebStorm · IntelliJ IDEA · Vite · Webpack · ESLint · Prettier · Figma
 
 ---
 
