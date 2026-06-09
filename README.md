@@ -10,7 +10,7 @@
 
 ### About
 
-Junior Software Engineer who builds complete systems — from database design and REST API to frontend UI. Writing backend in Java and Kotlin with Spring Boot, covering the frontend with React and TypeScript when needed. Care about proper architecture, Docker deployments, and real backend logic. CS student at SAN University, Łódź.
+Junior Software Engineer who builds complete systems - from database design and REST API to frontend UI. Writing backend in Java and Kotlin with Spring Boot, covering the frontend with React and TypeScript when needed. Care about proper architecture, Docker deployments, and real backend logic. CS student at SAN University, Łódź.
 
 ---
 
