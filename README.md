@@ -1,5 +1,5 @@
 <h1 align="center">Vladyslav Kosolap</h1>
-<p align="center">Junior Software Engineer — Backend & Fullstack</p>
+<p align="center">Junior Software Engineer - Backend & Fullstack</p>
 <p align="center">
   <a href="mailto:vladkosolap12@gmail.com">vladkosolap12@gmail.com</a> ·
   <a href="https://github.com/Vadilka">github.com/Vadilka</a> ·
