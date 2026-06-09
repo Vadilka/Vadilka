@@ -1,5 +1,5 @@
 <h1 align="center">Vladyslav Kosolap</h1>
-<p align="center">Frontend / Fullstack JavaScript Developer</p>
+<p align="center">Junior Software Engineer — Backend & Fullstack</p>
 <p align="center">
   <a href="mailto:vladkosolap12@gmail.com">vladkosolap12@gmail.com</a> ·
   <a href="https://github.com/Vadilka">github.com/Vadilka</a> ·
@@ -10,25 +10,21 @@
 
 ### About
 
-Frontend / Fullstack developer who builds things properly -
-with tests, Docker, monitoring and real backend logic. 
-Working with React, Next.js, Vue.js and TypeScript on the 
-frontend, Node.js on the backend, Java Spring Boot when 
-things get serious. CS student at SAN University, Łódź.
+Junior Software Engineer who builds complete systems — from database design and REST API to frontend UI. Writing backend in Java and Kotlin with Spring Boot, covering the frontend with React and TypeScript when needed. Care about proper architecture, Docker deployments, and real backend logic. CS student at SAN University, Łódź.
 
 ---
 
 ### Stack
 
-**Frontend** - TypeScript · React · Next.js · Vue.js · HTML · CSS
+**Backend** — Java · Kotlin · Spring Boot · Spring MVC · Spring Data JPA · Maven · REST API
 
-**Backend & API** - Node.js · Express.js · Java · Spring Boot · REST API
+**Frontend** — TypeScript · React · Next.js · Vue.js · HTML · CSS
 
-**Databases** - PostgreSQL · MySQL · MongoDB · Redis
+**Databases** — PostgreSQL · MySQL · MongoDB · Redis
 
-**ORM / ODM** - Prisma · Mongoose
+**ORM / ODM** — Hibernate · Prisma · Mongoose
 
-**Tooling** - Git · Docker · VS Code · WebStorm · IntelliJ IDEA · Vite · Webpack · ESLint · Prettier · Figma
+**Tooling** — Git · Docker · JetBrains IDEs · VS Code · Vite · Webpack · ESLint · Prettier · Figma
 
 ---
 
