@@ -16,15 +16,15 @@ Junior Software Engineer who builds complete systems - from database design and 
 
 ### Stack
 
-**Backend** — Java · Kotlin · Spring Boot · Spring MVC · Spring Data JPA · Maven · REST API
+**Backend** - Java · Kotlin · Spring Boot · Spring MVC · Spring Data JPA · Maven · REST API
 
-**Frontend** — TypeScript · React · Next.js · Vue.js · HTML · CSS
+**Frontend** - TypeScript · React · Next.js · Vue.js · HTML · CSS
 
-**Databases** — PostgreSQL · MySQL · MongoDB · Redis
+**Databases** - PostgreSQL · MySQL · MongoDB · Redis
 
-**ORM / ODM** — Hibernate · Prisma · Mongoose
+**ORM / ODM** - Hibernate · Prisma · Mongoose
 
-**Tooling** — Git · Docker · JetBrains IDEs · VS Code · Vite · Webpack · ESLint · Prettier · Figma
+**Tooling** - Git · Docker · JetBrains IDEs · VS Code · Vite · Webpack · ESLint · Prettier · Figma
 
 ---
 
