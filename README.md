@@ -10,19 +10,19 @@
 
 ### About
 
-Junior Software Engineer who builds complete systems - from database design and REST API to frontend UI. Writing backend in Java and Kotlin with Spring Boot, covering the frontend with React and TypeScript when needed. Care about proper architecture, Docker deployments, and real backend logic. CS student at SAN University, Łódź.
+Junior Software Engineer focused on building complete, production-ready systems. Designs and implements backend services in Java and Kotlin with Spring Boot, and delivers the full stack with TypeScript across React, Next.js and Vue.js on the frontend. Values clean architecture, proper REST API design, Docker-based deployments and real backend logic over quick fixes. Currently pursuing a Bachelor's degree in Computer Science at SAN University, Łódź.
 
 ---
 
 ### Stack
 
-**Backend** - Java · Kotlin · Spring Boot · Spring MVC · Spring Data JPA · Maven · REST API
+**Backend** - Java · Kotlin · Spring Boot · Spring MVC · Spring Data JPA · Spring Security · Maven · Hibernate · Node.js · REST API
 
 **Frontend** - TypeScript · React · Next.js · Vue.js · HTML · CSS
 
 **Databases** - PostgreSQL · MySQL · MongoDB · Redis
 
-**ORM / ODM** - Hibernate · Prisma · Mongoose
+**ORM / ODM** - Prisma · Mongoose
 
 **Tooling** - Git · Docker · JetBrains IDEs · VS Code · Vite · Webpack · ESLint · Prettier · Figma
 
@@ -32,10 +32,10 @@ Junior Software Engineer who builds complete systems - from database design and 
 
 | Project | Description |
 |---|---|
+| [**Scientific Research Management Platform**](https://github.com/Vadilka/scientific-research-management-platform) | Full-stack platform for managing scientific articles and publication workflows. Built with Java, Spring Boot, React, PostgreSQL, Docker, Prometheus and Grafana |
 | **SaaS Business Automation Dashboard** | Fullstack SaaS with auth, RBAC, analytics, admin panel and REST API |
 | **AI Document & Recruitment Analysis Platform** | LLM-powered CV/document analysis with structured data extraction |
 | **Recruitment & Candidate Management System** | Candidate tracking platform with recruiter workflows and REST API |
-| **Scientific Research Management Platform** | Docker-deployed platform for managing publications and admin workflows |
 
 ---
 
